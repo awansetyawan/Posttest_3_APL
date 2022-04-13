@@ -3,6 +3,6 @@
 Nama  : Alif Maulana Setyawan\
 NIM   : 2109106002\
 Kelas : A\
-Prodi : Informatika\
+Prodi : Informatika
 
 Repository Posttest 3 APL
