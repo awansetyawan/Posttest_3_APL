@@ -43,7 +43,7 @@ int bagi(int fungsix, int fungsiy){
   return fungsix / fungsiy;
 }
 
-// Fungsi operasi Modulus atau Sisa Bagi dengan menggunakan 3 dan 2 parameter
+// Fungsi operasi Modulus atau Hasil Bagi dengan menggunakan 3 dan 2 parameter
 
 int sisa_bagi(int fungsix, int fungsiy, int fungsiz){
   return fungsix % fungsiy % fungsiz;
